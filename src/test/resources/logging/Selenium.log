@@ -1,0 +1,842 @@
+16:49:25,196 DEBUG GlyphSubstitutionTable:263 - Type 4 GSUB lookup table is not supported and will be ignored
+16:49:25,199 DEBUG GlyphSubstitutionTable:263 - Type 4 GSUB lookup table is not supported and will be ignored
+16:49:25,199 DEBUG GlyphSubstitutionTable:263 - Type 6 GSUB lookup table is not supported and will be ignored
+16:49:25,200 DEBUG GlyphSubstitutionTable:263 - Type 4 GSUB lookup table is not supported and will be ignored
+16:49:25,200 DEBUG GlyphSubstitutionTable:263 - Type 4 GSUB lookup table is not supported and will be ignored
+16:49:25,210 DEBUG FontFileFinder:136 - checkFontfile check /Library/Fonts/Arial Unicode.ttf
+16:49:25,211 DEBUG FontFileFinder:142 - checkFontfile found /Library/Fonts/Arial Unicode.ttf
+16:49:25,214 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/AppleSDGothicNeo.ttc
+16:49:25,214 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/AppleSDGothicNeo.ttc
+16:49:25,215 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Menlo.ttc
+16:49:25,215 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Menlo.ttc
+16:49:25,216 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/STHeiti Medium.ttc
+16:49:25,216 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/STHeiti Medium.ttc
+16:49:25,217 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Symbol.ttf
+16:49:25,217 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Symbol.ttf
+16:49:25,218 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Hiragino Sans GB.ttc
+16:49:25,218 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Hiragino Sans GB.ttc
+16:49:25,219 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/LastResort.otf
+16:49:25,219 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/LastResort.otf
+16:49:25,219 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/NotoSerifMyanmar.ttc
+16:49:25,220 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/NotoSerifMyanmar.ttc
+16:49:25,220 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/HelveticaNeue.ttc
+16:49:25,220 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/HelveticaNeue.ttc
+16:49:25,221 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/SFNSMono.ttf
+16:49:25,221 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/SFNSMono.ttf
+16:49:25,222 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W8.ttc
+16:49:25,225 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W8.ttc
+16:49:25,226 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/PingFang.ttc
+16:49:25,227 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/PingFang.ttc
+16:49:25,227 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Noteworthy.ttc
+16:49:25,227 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Noteworthy.ttc
+16:49:25,228 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/NotoSansOriya.ttc
+16:49:25,228 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/NotoSansOriya.ttc
+16:49:25,228 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W9.ttc
+16:49:25,228 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W9.ttc
+16:49:25,229 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Optima.ttc
+16:49:25,229 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Optima.ttc
+16:49:25,230 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ZapfDingbats.ttf
+16:49:25,230 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ZapfDingbats.ttf
+16:49:25,230 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Monaco.dfont
+16:49:25,231 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Apple Braille.ttf
+16:49:25,231 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Apple Braille.ttf
+16:49:25,231 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Avenir Next Condensed.ttc
+16:49:25,232 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Avenir Next Condensed.ttc
+16:49:25,232 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/LucidaGrande.ttc
+16:49:25,232 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/LucidaGrande.ttc
+16:49:25,232 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/SFCompact.ttf
+16:49:25,232 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/SFCompact.ttf
+16:49:25,233 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Thonburi.ttc
+16:49:25,233 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Thonburi.ttc
+16:49:25,233 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ArabicUIDisplay.ttc
+16:49:25,233 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ArabicUIDisplay.ttc
+16:49:25,234 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Apple Braille Outline 6 Dot.ttf
+16:49:25,234 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Apple Braille Outline 6 Dot.ttf
+16:49:25,234 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/KohinoorTelugu.ttc
+16:49:25,234 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/KohinoorTelugu.ttc
+16:49:25,234 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Apple Braille Pinpoint 6 Dot.ttf
+16:49:25,234 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Apple Braille Pinpoint 6 Dot.ttf
+16:49:25,235 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/MuktaMahee.ttc
+16:49:25,235 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/MuktaMahee.ttc
+16:49:25,235 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/NewYork.ttf
+16:49:25,235 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/NewYork.ttf
+16:49:25,236 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/SFNSMonoItalic.ttf
+16:49:25,236 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/SFNSMonoItalic.ttf
+16:49:25,236 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/SFNS.ttf
+16:49:25,236 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/SFNS.ttf
+16:49:25,236 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Avenir.ttc
+16:49:25,236 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Avenir.ttc
+16:49:25,237 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Kohinoor.ttc
+16:49:25,237 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Kohinoor.ttc
+16:49:25,237 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/NotoSansMyanmar.ttc
+16:49:25,238 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/NotoSansMyanmar.ttc
+16:49:25,238 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ明朝 ProN.ttc
+16:49:25,239 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ明朝 ProN.ttc
+16:49:25,242 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansLepcha-Regular.ttf
+16:49:25,242 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansLepcha-Regular.ttf
+16:49:25,242 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/AlBayan.ttc
+16:49:25,242 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/AlBayan.ttc
+16:49:25,243 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Webdings.ttf
+16:49:25,243 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Webdings.ttf
+16:49:25,243 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMandaic-Regular.ttf
+16:49:25,244 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMandaic-Regular.ttf
+16:49:25,244 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Rockwell.ttc
+16:49:25,244 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Rockwell.ttc
+16:49:25,244 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Zapfino.ttf
+16:49:25,244 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Zapfino.ttf
+16:49:25,245 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansCaucasianAlbanian-Regular.ttf
+16:49:25,245 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansCaucasianAlbanian-Regular.ttf
+16:49:25,245 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Trebuchet MS Italic.ttf
+16:49:25,246 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Trebuchet MS Italic.ttf
+16:49:25,246 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOldHungarian-Regular.ttf
+16:49:25,246 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOldHungarian-Regular.ttf
+16:49:25,246 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Georgia.ttf
+16:49:25,247 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Georgia.ttf
+16:49:25,247 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Savoye LET.ttc
+16:49:25,247 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Savoye LET.ttc
+16:49:25,248 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/PTSans.ttc
+16:49:25,248 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/PTSans.ttc
+16:49:25,248 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansSaurashtra-Regular.ttf
+16:49:25,248 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansSaurashtra-Regular.ttf
+16:49:25,249 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMultani-Regular.ttf
+16:49:25,249 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMultani-Regular.ttf
+16:49:25,249 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansHatran-Regular.ttf
+16:49:25,250 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansHatran-Regular.ttf
+16:49:25,250 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Verdana Bold.ttf
+16:49:25,250 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Verdana Bold.ttf
+16:49:25,251 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Bodoni 72 Smallcaps Book.ttf
+16:49:25,251 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Bodoni 72 Smallcaps Book.ttf
+16:49:25,251 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansInscriptionalPahlavi-Regular.ttf
+16:49:25,251 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansInscriptionalPahlavi-Regular.ttf
+16:49:25,251 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansHanunoo-Regular.ttf
+16:49:25,251 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansHanunoo-Regular.ttf
+16:49:25,252 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Times New Roman Bold Italic.ttf
+16:49:25,252 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Times New Roman Bold Italic.ttf
+16:49:25,252 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/SukhumvitSet.ttc
+16:49:25,252 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/SukhumvitSet.ttc
+16:49:25,253 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Silom.ttf
+16:49:25,253 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Silom.ttf
+16:49:25,253 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansBhaiksuki-Regular.ttf
+16:49:25,253 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansBhaiksuki-Regular.ttf
+16:49:25,254 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansCham-Regular.ttf
+16:49:25,254 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansCham-Regular.ttf
+16:49:25,254 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansManichaean-Regular.ttf
+16:49:25,254 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansManichaean-Regular.ttf
+16:49:25,255 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansSiddham-Regular.ttf
+16:49:25,255 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansSiddham-Regular.ttf
+16:49:25,255 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansNKo-Regular.ttf
+16:49:25,255 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansNKo-Regular.ttf
+16:49:25,256 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Kefa.ttc
+16:49:25,256 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Kefa.ttc
+16:49:25,256 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Verdana Italic.ttf
+16:49:25,256 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Verdana Italic.ttf
+16:49:25,256 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansKayahLi-Regular.ttf
+16:49:25,257 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansKayahLi-Regular.ttf
+16:49:25,257 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOsage-Regular.ttf
+16:49:25,257 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOsage-Regular.ttf
+16:49:25,257 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Nadeem.ttc
+16:49:25,258 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Nadeem.ttc
+16:49:25,258 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansAdlam-Regular.ttf
+16:49:25,258 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansAdlam-Regular.ttf
+16:49:25,258 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/KufiStandardGK.ttc
+16:49:25,259 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/KufiStandardGK.ttc
+16:49:25,259 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansPahawhHmong-Regular.ttf
+16:49:25,259 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansPahawhHmong-Regular.ttf
+16:49:25,259 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Times New Roman Italic.ttf
+16:49:25,259 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Times New Roman Italic.ttf
+16:49:25,259 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMro-Regular.ttf
+16:49:25,260 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMro-Regular.ttf
+16:49:25,260 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansAvestan-Regular.ttf
+16:49:25,260 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansAvestan-Regular.ttf
+16:49:25,260 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Bradley Hand Bold.ttf
+16:49:25,260 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Bradley Hand Bold.ttf
+16:49:25,261 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMiao-Regular.ttf
+16:49:25,261 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMiao-Regular.ttf
+16:49:25,261 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Narrow Italic.ttf
+16:49:25,261 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Narrow Italic.ttf
+16:49:25,261 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansBassaVah-Regular.ttf
+16:49:25,262 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansBassaVah-Regular.ttf
+16:49:25,262 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXGeneralItalic.otf
+16:49:25,262 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXGeneralItalic.otf
+16:49:25,262 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansSyriac-Regular.ttf
+16:49:25,262 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansSyriac-Regular.ttf
+16:49:25,263 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMendeKikakui-Regular.ttf
+16:49:25,263 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMendeKikakui-Regular.ttf
+16:49:25,263 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Kannada Sangam MN.ttc
+16:49:25,263 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Kannada Sangam MN.ttc
+16:49:25,263 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Papyrus.ttc
+16:49:25,263 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Papyrus.ttc
+16:49:25,264 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Seravek.ttc
+16:49:25,264 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Seravek.ttc
+16:49:25,264 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/AppleGothic.ttf
+16:49:25,264 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/AppleGothic.ttf
+16:49:25,264 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Iowan Old Style.ttc
+16:49:25,265 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Iowan Old Style.ttc
+16:49:25,265 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansLydian-Regular.ttf
+16:49:25,265 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansLydian-Regular.ttf
+16:49:25,266 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf
+16:49:25,266 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf
+16:49:25,266 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansChakma-Regular.ttf
+16:49:25,266 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansChakma-Regular.ttf
+16:49:25,266 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansNabataean-Regular.ttf
+16:49:25,266 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansNabataean-Regular.ttf
+16:49:25,267 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Kailasa.ttc
+16:49:25,267 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Kailasa.ttc
+16:49:25,268 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Charter.ttc
+16:49:25,268 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Charter.ttc
+16:49:25,268 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Farisi.ttf
+16:49:25,268 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Farisi.ttf
+16:49:25,269 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Bold.ttf
+16:49:25,269 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Bold.ttf
+16:49:25,269 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOgham-Regular.ttf
+16:49:25,269 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOgham-Regular.ttf
+16:49:25,270 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Trebuchet MS.ttf
+16:49:25,270 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Trebuchet MS.ttf
+16:49:25,270 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Mishafi.ttf
+16:49:25,270 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Mishafi.ttf
+16:49:25,271 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansDuployan-Regular.ttf
+16:49:25,271 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansDuployan-Regular.ttf
+16:49:25,271 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Academy Engraved LET Fonts.ttf
+16:49:25,271 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Academy Engraved LET Fonts.ttf
+16:49:25,271 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansSoraSompeng-Regular.ttf
+16:49:25,271 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansSoraSompeng-Regular.ttf
+16:49:25,272 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Marion.ttc
+16:49:25,272 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Marion.ttc
+16:49:25,272 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Trattatello.ttf
+16:49:25,272 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Trattatello.ttf
+16:49:25,272 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Sinhala MN.ttc
+16:49:25,273 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Sinhala MN.ttc
+16:49:25,273 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansRejang-Regular.ttf
+16:49:25,273 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansRejang-Regular.ttf
+16:49:25,273 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansUgaritic-Regular.ttf
+16:49:25,273 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansUgaritic-Regular.ttf
+16:49:25,274 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Corsiva.ttc
+16:49:25,274 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Corsiva.ttc
+16:49:25,274 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansLycian-Regular.ttf
+16:49:25,274 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansLycian-Regular.ttf
+16:49:25,274 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/BigCaslon.ttf
+16:49:25,275 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/BigCaslon.ttf
+16:49:25,275 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansWarangCiti-Regular.ttf
+16:49:25,275 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansWarangCiti-Regular.ttf
+16:49:25,275 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Courier New Bold.ttf
+16:49:25,275 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Courier New Bold.ttf
+16:49:25,276 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NISC18030.ttf
+16:49:25,276 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NISC18030.ttf
+16:49:25,276 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansHanifiRohingya-Regular.ttf
+16:49:25,276 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansHanifiRohingya-Regular.ttf
+16:49:25,276 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansTirhuta-Regular.ttf
+16:49:25,277 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansTirhuta-Regular.ttf
+16:49:25,277 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Al Nile.ttc
+16:49:25,277 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Al Nile.ttc
+16:49:25,277 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntUpSmReg.otf
+16:49:25,277 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntUpSmReg.otf
+16:49:25,277 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/SuperClarendon.ttc
+16:49:25,277 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/SuperClarendon.ttc
+16:49:25,278 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Baghdad.ttc
+16:49:25,278 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Baghdad.ttc
+16:49:25,278 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXGeneral.otf
+16:49:25,278 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXGeneral.otf
+16:49:25,279 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Athelas.ttc
+16:49:25,279 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Athelas.ttc
+16:49:25,279 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntUpDBol.otf
+16:49:25,279 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntUpDBol.otf
+16:49:25,279 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/AmericanTypewriter.ttc
+16:49:25,279 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/AmericanTypewriter.ttc
+16:49:25,280 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Lao Sangam MN.ttf
+16:49:25,280 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Lao Sangam MN.ttf
+16:49:25,280 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansTaiLe-Regular.ttf
+16:49:25,280 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansTaiLe-Regular.ttf
+16:49:25,280 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansThaana-Regular.ttf
+16:49:25,280 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansThaana-Regular.ttf
+16:49:25,280 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Luminari.ttf
+16:49:25,281 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Luminari.ttf
+16:49:25,281 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXVar.otf
+16:49:25,281 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXVar.otf
+16:49:25,281 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Malayalam MN.ttc
+16:49:25,282 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Malayalam MN.ttc
+16:49:25,282 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXSizOneSymBol.otf
+16:49:25,282 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXSizOneSymBol.otf
+16:49:25,282 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Muna.ttc
+16:49:25,282 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Muna.ttc
+16:49:25,282 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Times New Roman.ttf
+16:49:25,283 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Times New Roman.ttf
+16:49:25,283 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Brush Script.ttf
+16:49:25,283 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Brush Script.ttf
+16:49:25,283 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Bodoni 72 OS.ttc
+16:49:25,283 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Bodoni 72 OS.ttc
+16:49:25,284 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Myanmar MN.ttc
+16:49:25,284 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Myanmar MN.ttc
+16:49:25,284 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansJavanese-Regular.otf
+16:49:25,284 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansJavanese-Regular.otf
+16:49:25,284 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Georgia Italic.ttf
+16:49:25,284 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Georgia Italic.ttf
+16:49:25,284 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Courier New Italic.ttf
+16:49:25,285 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Courier New Italic.ttf
+16:49:25,285 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Unicode.ttf
+16:49:25,285 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Unicode.ttf
+16:49:25,285 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Telugu MN.ttc
+16:49:25,285 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Telugu MN.ttc
+16:49:25,285 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Myanmar Sangam MN.ttc
+16:49:25,285 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Myanmar Sangam MN.ttc
+16:49:25,286 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Chalkduster.ttf
+16:49:25,286 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Chalkduster.ttf
+16:49:25,286 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntUpSmBol.otf
+16:49:25,286 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntUpSmBol.otf
+16:49:25,286 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntUpDReg.otf
+16:49:25,286 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntUpDReg.otf
+16:49:25,286 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansSundanese-Regular.ttf
+16:49:25,286 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansSundanese-Regular.ttf
+16:49:25,287 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Devanagari Sangam MN.ttc
+16:49:25,287 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Devanagari Sangam MN.ttc
+16:49:25,287 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Phosphate.ttc
+16:49:25,287 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Phosphate.ttc
+16:49:25,287 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Apple Chancery.ttf
+16:49:25,287 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Apple Chancery.ttf
+16:49:25,288 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/AppleMyungjo.ttf
+16:49:25,288 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/AppleMyungjo.ttf
+16:49:25,288 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXSizOneSymReg.otf
+16:49:25,288 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXSizOneSymReg.otf
+16:49:25,288 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOlChiki-Regular.ttf
+16:49:25,288 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOlChiki-Regular.ttf
+16:49:25,288 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Futura.ttc
+16:49:25,288 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Futura.ttc
+16:49:25,288 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansCarian-Regular.ttf
+16:49:25,289 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansCarian-Regular.ttf
+16:49:25,289 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Copperplate.ttc
+16:49:25,289 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Copperplate.ttc
+16:49:25,289 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/PTMono.ttc
+16:49:25,289 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/PTMono.ttc
+16:49:25,289 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Farah.ttc
+16:49:25,290 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Farah.ttc
+16:49:25,290 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Narrow Bold Italic.ttf
+16:49:25,290 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Narrow Bold Italic.ttf
+16:49:25,290 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Malayalam Sangam MN.ttc
+16:49:25,290 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Malayalam Sangam MN.ttc
+16:49:25,290 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansModi-Regular.ttf
+16:49:25,290 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansModi-Regular.ttf
+16:49:25,290 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/ChalkboardSE.ttc
+16:49:25,290 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/ChalkboardSE.ttc
+16:49:25,291 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/ITFDevanagari.ttc
+16:49:25,291 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/ITFDevanagari.ttc
+16:49:25,291 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMeroitic-Regular.ttf
+16:49:25,291 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMeroitic-Regular.ttf
+16:49:25,291 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Bangla MN.ttc
+16:49:25,291 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Bangla MN.ttc
+16:49:25,291 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXNonUniBol.otf
+16:49:25,291 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXNonUniBol.otf
+16:49:25,292 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansPalmyrene-Regular.ttf
+16:49:25,292 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansPalmyrene-Regular.ttf
+16:49:25,292 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansPhagsPa-Regular.ttf
+16:49:25,292 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansPhagsPa-Regular.ttf
+16:49:25,292 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Narrow.ttf
+16:49:25,292 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Narrow.ttf
+16:49:25,292 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansYi-Regular.ttf
+16:49:25,292 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansYi-Regular.ttf
+16:49:25,293 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Bangla Sangam MN.ttc
+16:49:25,293 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Bangla Sangam MN.ttc
+16:49:25,293 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansPsalterPahlavi-Regular.ttf
+16:49:25,293 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansPsalterPahlavi-Regular.ttf
+16:49:25,293 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Tamil MN.ttc
+16:49:25,293 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Tamil MN.ttc
+16:49:25,293 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansLimbu-Regular.ttf
+16:49:25,293 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansLimbu-Regular.ttf
+16:49:25,294 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansCypriot-Regular.ttf
+16:49:25,294 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansCypriot-Regular.ttf
+16:49:25,294 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansRunic-Regular.ttf
+16:49:25,294 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansRunic-Regular.ttf
+16:49:25,294 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Gurmukhi Sangam MN.ttc
+16:49:25,294 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Gurmukhi Sangam MN.ttc
+16:49:25,294 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/GujaratiMT.ttc
+16:49:25,294 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/GujaratiMT.ttc
+16:49:25,295 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Diwan Kufi.ttc
+16:49:25,295 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Diwan Kufi.ttc
+16:49:25,295 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansBamum-Regular.ttf
+16:49:25,295 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansBamum-Regular.ttf
+16:49:25,295 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansLisu-Regular.ttf
+16:49:25,295 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansLisu-Regular.ttf
+16:49:25,295 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Courier New.ttf
+16:49:25,295 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Courier New.ttf
+16:49:25,296 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Wingdings 3.ttf
+16:49:25,296 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Wingdings 3.ttf
+16:49:25,296 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMahajani-Regular.ttf
+16:49:25,296 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMahajani-Regular.ttf
+16:49:25,296 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Wingdings 2.ttf
+16:49:25,296 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Wingdings 2.ttf
+16:49:25,296 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansGlagolitic-Regular.ttf
+16:49:25,296 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansGlagolitic-Regular.ttf
+16:49:25,297 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Hoefler Text Ornaments.ttf
+16:49:25,297 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Hoefler Text Ornaments.ttf
+16:49:25,297 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Tamil Sangam MN.ttc
+16:49:25,297 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Tamil Sangam MN.ttc
+16:49:25,297 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSerifAhom-Regular.ttf
+16:49:25,297 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSerifAhom-Regular.ttf
+16:49:25,297 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Bodoni Ornaments.ttf
+16:49:25,297 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Bodoni Ornaments.ttf
+16:49:25,297 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansVai-Regular.ttf
+16:49:25,298 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansVai-Regular.ttf
+16:49:25,298 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansTagbanwa-Regular.ttf
+16:49:25,298 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansTagbanwa-Regular.ttf
+16:49:25,298 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Cochin.ttc
+16:49:25,298 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Cochin.ttc
+16:49:25,299 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Skia.ttf
+16:49:25,299 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Skia.ttf
+16:49:25,299 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansPhoenician-Regular.ttf
+16:49:25,299 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansPhoenician-Regular.ttf
+16:49:25,299 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Trebuchet MS Bold Italic.ttf
+16:49:25,299 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Trebuchet MS Bold Italic.ttf
+16:49:25,300 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/DevanagariMT.ttc
+16:49:25,300 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/DevanagariMT.ttc
+16:49:25,300 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Kannada MN.ttc
+16:49:25,300 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Kannada MN.ttc
+16:49:25,301 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Beirut.ttc
+16:49:25,301 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Beirut.ttc
+16:49:25,301 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Impact.ttf
+16:49:25,301 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Impact.ttf
+16:49:25,301 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansTifinagh-Regular.ttf
+16:49:25,301 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansTifinagh-Regular.ttf
+16:49:25,301 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Kokonor.ttf
+16:49:25,302 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Kokonor.ttf
+16:49:25,302 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansKaithi-Regular.ttf
+16:49:25,302 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansKaithi-Regular.ttf
+16:49:25,302 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NewPeninimMT.ttc
+16:49:25,302 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NewPeninimMT.ttc
+16:49:25,302 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntUpBol.otf
+16:49:25,302 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntUpBol.otf
+16:49:25,302 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSerifBalinese-Regular.ttf
+16:49:25,302 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSerifBalinese-Regular.ttf
+16:49:25,303 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansTakri-Regular.ttf
+16:49:25,303 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansTakri-Regular.ttf
+16:49:25,303 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Gurmukhi MN.ttc
+16:49:25,303 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Gurmukhi MN.ttc
+16:49:25,303 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXSizThreeSymBol.otf
+16:49:25,303 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXSizThreeSymBol.otf
+16:49:25,303 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansEgyptianHieroglyphs-Regular.ttf
+16:49:25,303 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansEgyptianHieroglyphs-Regular.ttf
+16:49:25,303 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansSamaritan-Regular.ttf
+16:49:25,304 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansSamaritan-Regular.ttf
+16:49:25,304 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansElbasan-Regular.ttf
+16:49:25,304 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansElbasan-Regular.ttf
+16:49:25,304 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/PartyLET-plain.ttf
+16:49:25,304 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/PartyLET-plain.ttf
+16:49:25,304 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansKharoshthi-Regular.ttf
+16:49:25,304 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansKharoshthi-Regular.ttf
+16:49:25,305 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Tahoma Bold.ttf
+16:49:25,305 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Tahoma Bold.ttf
+16:49:25,305 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial.ttf
+16:49:25,305 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial.ttf
+16:49:25,305 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Diwan Thuluth.ttf
+16:49:25,305 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Diwan Thuluth.ttf
+16:49:25,306 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansTagalog-Regular.ttf
+16:49:25,306 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansTagalog-Regular.ttf
+16:49:25,306 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Ayuthaya.ttf
+16:49:25,306 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Ayuthaya.ttf
+16:49:25,306 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntUpReg.otf
+16:49:25,306 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntUpReg.otf
+16:49:25,307 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Sinhala Sangam MN.ttc
+16:49:25,307 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Sinhala Sangam MN.ttc
+16:49:25,307 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Khmer Sangam MN.ttf
+16:49:25,307 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Khmer Sangam MN.ttf
+16:49:25,307 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/PTSerif.ttc
+16:49:25,307 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/PTSerif.ttc
+16:49:25,308 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXSizThreeSymReg.otf
+16:49:25,308 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXSizThreeSymReg.otf
+16:49:25,308 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/SnellRoundhand.ttc
+16:49:25,308 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/SnellRoundhand.ttc
+16:49:25,308 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansSharada-Regular.ttf
+16:49:25,308 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansSharada-Regular.ttf
+16:49:25,308 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Chalkboard.ttc
+16:49:25,309 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Chalkboard.ttc
+16:49:25,309 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansKhojki-Regular.ttf
+16:49:25,309 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansKhojki-Regular.ttf
+16:49:25,309 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Bodoni 72.ttc
+16:49:25,309 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Bodoni 72.ttc
+16:49:25,309 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansNewTaiLue-Regular.ttf
+16:49:25,309 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansNewTaiLue-Regular.ttf
+16:49:25,309 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansInscriptionalParthian-Regular.ttf
+16:49:25,310 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansInscriptionalParthian-Regular.ttf
+16:49:25,310 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXNonUni.otf
+16:49:25,310 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXNonUni.otf
+16:49:25,310 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Mshtakan.ttc
+16:49:25,310 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Mshtakan.ttc
+16:49:25,310 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Trebuchet MS Bold.ttf
+16:49:25,311 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Trebuchet MS Bold.ttf
+16:49:25,311 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansBuhid-Regular.ttf
+16:49:25,311 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansBuhid-Regular.ttf
+16:49:25,311 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Lao MN.ttc
+16:49:25,311 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Lao MN.ttc
+16:49:25,311 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Sana.ttc
+16:49:25,312 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Sana.ttc
+16:49:25,312 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Black.ttf
+16:49:25,312 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Black.ttf
+16:49:25,312 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Baskerville.ttc
+16:49:25,312 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Baskerville.ttc
+16:49:25,313 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Courier New Bold Italic.ttf
+16:49:25,313 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Courier New Bold Italic.ttf
+16:49:25,313 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Comic Sans MS.ttf
+16:49:25,313 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Comic Sans MS.ttf
+16:49:25,313 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansKhudawadi-Regular.ttf
+16:49:25,313 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansKhudawadi-Regular.ttf
+16:49:25,314 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/InaiMathi-MN.ttc
+16:49:25,314 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/InaiMathi-MN.ttc
+16:49:25,314 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansBuginese-Regular.ttf
+16:49:25,314 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansBuginese-Regular.ttf
+16:49:25,314 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Telugu Sangam MN.ttc
+16:49:25,314 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Telugu Sangam MN.ttc
+16:49:25,314 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Hoefler Text.ttc
+16:49:25,315 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Hoefler Text.ttc
+16:49:25,315 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansLinearB-Regular.ttf
+16:49:25,315 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansLinearB-Regular.ttf
+16:49:25,315 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/DIN Alternate Bold.ttf
+16:49:25,315 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/DIN Alternate Bold.ttf
+16:49:25,315 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Wingdings.ttf
+16:49:25,315 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Wingdings.ttf
+16:49:25,316 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansNewa-Regular.ttf
+16:49:25,316 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansNewa-Regular.ttf
+16:49:25,316 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Sathu.ttf
+16:49:25,316 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Sathu.ttf
+16:49:25,316 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Gujarati Sangam MN.ttc
+16:49:25,316 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Gujarati Sangam MN.ttc
+16:49:25,317 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansSylotiNagri-Regular.ttf
+16:49:25,317 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansSylotiNagri-Regular.ttf
+16:49:25,317 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Bold Italic.ttf
+16:49:25,317 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Bold Italic.ttf
+16:49:25,317 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXSizTwoSymBol.otf
+16:49:25,317 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXSizTwoSymBol.otf
+16:49:25,318 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Galvji.ttc
+16:49:25,318 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Galvji.ttc
+16:49:25,318 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOldPersian-Regular.ttf
+16:49:25,318 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOldPersian-Regular.ttf
+16:49:25,318 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Tahoma.ttf
+16:49:25,318 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Tahoma.ttf
+16:49:25,319 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/EuphemiaCAS.ttc
+16:49:25,319 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/EuphemiaCAS.ttc
+16:49:25,319 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/PlantagenetCherokee.ttf
+16:49:25,319 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/PlantagenetCherokee.ttf
+16:49:25,320 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Didot.ttc
+16:49:25,320 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Didot.ttc
+16:49:25,320 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Georgia Bold.ttf
+16:49:25,320 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Georgia Bold.ttf
+16:49:25,320 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansLinearA-Regular.ttf
+16:49:25,320 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansLinearA-Regular.ttf
+16:49:25,321 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntSmReg.otf
+16:49:25,321 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntSmReg.otf
+16:49:25,321 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXNonUniIta.otf
+16:49:25,321 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXNonUniIta.otf
+16:49:25,321 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXSizFourSymReg.otf
+16:49:25,321 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXSizFourSymReg.otf
+16:49:25,321 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Verdana Bold Italic.ttf
+16:49:25,321 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Verdana Bold Italic.ttf
+16:49:25,322 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Microsoft Sans Serif.ttf
+16:49:25,322 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Microsoft Sans Serif.ttf
+16:49:25,322 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansCuneiform-Regular.ttf
+16:49:25,322 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansCuneiform-Regular.ttf
+16:49:25,322 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Georgia Bold Italic.ttf
+16:49:25,322 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Georgia Bold Italic.ttf
+16:49:25,322 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansBatak-Regular.ttf
+16:49:25,322 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansBatak-Regular.ttf
+16:49:25,323 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Rounded Bold.ttf
+16:49:25,323 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Rounded Bold.ttf
+16:49:25,323 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Times New Roman Bold.ttf
+16:49:25,323 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Times New Roman Bold.ttf
+16:49:25,323 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXSizTwoSymReg.otf
+16:49:25,323 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXSizTwoSymReg.otf
+16:49:25,323 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Khmer MN.ttc
+16:49:25,323 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Khmer MN.ttc
+16:49:25,323 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansWancho-Regular.ttf
+16:49:25,324 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansWancho-Regular.ttf
+16:49:25,324 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXGeneralBolIta.otf
+16:49:25,324 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXGeneralBolIta.otf
+16:49:25,324 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Krungthep.ttf
+16:49:25,324 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Krungthep.ttf
+16:49:25,324 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOldSouthArabian-Regular.ttf
+16:49:25,324 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOldSouthArabian-Regular.ttf
+16:49:25,324 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Oriya MN.ttc
+16:49:25,324 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Oriya MN.ttc
+16:49:25,325 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXSizFourSymBol.otf
+16:49:25,325 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXSizFourSymBol.otf
+16:49:25,325 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntSmBol.otf
+16:49:25,325 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntSmBol.otf
+16:49:25,325 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansPauCinHau-Regular.ttf
+16:49:25,325 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansPauCinHau-Regular.ttf
+16:49:25,325 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMarchen-Regular.ttf
+16:49:25,325 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMarchen-Regular.ttf
+16:49:25,326 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOldItalic-Regular.ttf
+16:49:25,326 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOldItalic-Regular.ttf
+16:49:25,326 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansGothic-Regular.ttf
+16:49:25,326 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansGothic-Regular.ttf
+16:49:25,326 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Gurmukhi.ttf
+16:49:25,326 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Gurmukhi.ttf
+16:49:25,326 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Al Tarikh.ttc
+16:49:25,326 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Al Tarikh.ttc
+16:49:25,326 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXNonUniBolIta.otf
+16:49:25,326 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXNonUniBolIta.otf
+16:49:25,326 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Raanana.ttc
+16:49:25,327 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Raanana.ttc
+16:49:25,327 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Andale Mono.ttf
+16:49:25,327 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Andale Mono.ttf
+16:49:25,327 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/GillSans.ttc
+16:49:25,327 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/GillSans.ttc
+16:49:25,327 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Mishafi Gold.ttf
+16:49:25,328 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Mishafi Gold.ttf
+16:49:25,328 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansShavian-Regular.ttf
+16:49:25,328 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansShavian-Regular.ttf
+16:49:25,328 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Herculanum.ttf
+16:49:25,328 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Herculanum.ttf
+16:49:25,328 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansTaiViet-Regular.ttf
+16:49:25,329 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansTaiViet-Regular.ttf
+16:49:25,329 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Damascus.ttc
+16:49:25,329 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Damascus.ttc
+16:49:25,329 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Waseem.ttc
+16:49:25,329 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Waseem.ttc
+16:49:25,330 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansImperialAramaic-Regular.ttf
+16:49:25,330 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansImperialAramaic-Regular.ttf
+16:49:25,330 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntDReg.otf
+16:49:25,330 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntDReg.otf
+16:49:25,330 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/PTSerifCaption.ttc
+16:49:25,330 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/PTSerifCaption.ttc
+16:49:25,330 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansBrahmi-Regular.ttf
+16:49:25,330 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansBrahmi-Regular.ttf
+16:49:25,331 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXVarBol.otf
+16:49:25,331 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXVarBol.otf
+16:49:25,331 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Comic Sans MS Bold.ttf
+16:49:25,331 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Comic Sans MS Bold.ttf
+16:49:25,331 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansCoptic-Regular.ttf
+16:49:25,331 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansCoptic-Regular.ttf
+16:49:25,331 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXSizFiveSymReg.otf
+16:49:25,331 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXSizFiveSymReg.otf
+16:49:25,332 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Italic.ttf
+16:49:25,332 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Italic.ttf
+16:49:25,332 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOldTurkic-Regular.ttf
+16:49:25,332 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOldTurkic-Regular.ttf
+16:49:25,332 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/SignPainter.ttc
+16:49:25,333 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/SignPainter.ttc
+16:49:25,333 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Oriya Sangam MN.ttc
+16:49:25,333 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Oriya Sangam MN.ttc
+16:49:25,333 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXGeneralBol.otf
+16:49:25,333 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXGeneralBol.otf
+16:49:25,333 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMongolian-Regular.ttf
+16:49:25,333 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMongolian-Regular.ttf
+16:49:25,334 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Verdana.ttf
+16:49:25,334 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Verdana.ttf
+16:49:25,334 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Shree714.ttc
+16:49:25,334 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Shree714.ttc
+16:49:25,334 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOldPermic-Regular.ttf
+16:49:25,334 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOldPermic-Regular.ttf
+16:49:25,334 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/STIXIntDBol.otf
+16:49:25,334 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/STIXIntDBol.otf
+16:49:25,335 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Songti.ttc
+16:49:25,335 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Songti.ttc
+16:49:25,335 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansTaiTham-Regular.ttf
+16:49:25,335 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansTaiTham-Regular.ttf
+16:49:25,335 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansMeeteiMayek-Regular.ttf
+16:49:25,335 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansMeeteiMayek-Regular.ttf
+16:49:25,335 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOldNorthArabian-Regular.ttf
+16:49:25,335 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOldNorthArabian-Regular.ttf
+16:49:25,336 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/DecoTypeNaskh.ttc
+16:49:25,336 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/DecoTypeNaskh.ttc
+16:49:25,336 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/NotoSansOsmanya-Regular.ttf
+16:49:25,336 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/NotoSansOsmanya-Regular.ttf
+16:49:25,336 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Supplemental/Arial Narrow Bold.ttf
+16:49:25,336 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Supplemental/Arial Narrow Bold.ttf
+16:49:25,337 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Avenir Next.ttc
+16:49:25,337 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Avenir Next.ttc
+16:49:25,337 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/KohinoorGujarati.ttc
+16:49:25,337 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/KohinoorGujarati.ttc
+16:49:25,338 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/AquaKana.ttc
+16:49:25,338 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/AquaKana.ttc
+16:49:25,338 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Palatino.ttc
+16:49:25,338 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Palatino.ttc
+16:49:25,339 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Apple Symbols.ttf
+16:49:25,339 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Apple Symbols.ttf
+16:49:25,339 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/NotoNastaliq.ttc
+16:49:25,339 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/NotoNastaliq.ttc
+16:49:25,340 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/STHeiti Light.ttc
+16:49:25,340 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/STHeiti Light.ttc
+16:49:25,341 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/NewYorkItalic.ttf
+16:49:25,341 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/NewYorkItalic.ttf
+16:49:25,341 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/HelveLTMM
+16:49:25,341 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/GeezaPro.ttc
+16:49:25,341 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/GeezaPro.ttc
+16:49:25,342 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/TimesLTMM
+16:49:25,342 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/SFCompactItalic.ttf
+16:49:25,342 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/SFCompactItalic.ttf
+16:49:25,343 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W7.ttc
+16:49:25,343 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W7.ttc
+16:49:25,343 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Courier.dfont
+16:49:25,343 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Times.ttc
+16:49:25,343 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Times.ttc
+16:49:25,344 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc
+16:49:25,344 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc
+16:49:25,344 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W6.ttc
+16:49:25,345 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W6.ttc
+16:49:25,345 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W4.ttc
+16:49:25,345 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W4.ttc
+16:49:25,346 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/NotoSansKannada.ttc
+16:49:25,346 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/NotoSansKannada.ttc
+16:49:25,346 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/SFNSRounded.ttf
+16:49:25,346 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/SFNSRounded.ttf
+16:49:25,346 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W5.ttc
+16:49:25,346 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W5.ttc
+16:49:25,346 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/MarkerFelt.ttc
+16:49:25,347 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/MarkerFelt.ttc
+16:49:25,347 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Apple Braille Pinpoint 8 Dot.ttf
+16:49:25,347 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Apple Braille Pinpoint 8 Dot.ttf
+16:49:25,347 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Keyboard.ttf
+16:49:25,347 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Keyboard.ttf
+16:49:25,348 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W1.ttc
+16:49:25,348 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W1.ttc
+16:49:25,348 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Geneva.dfont
+16:49:25,348 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ArabicUIText.ttc
+16:49:25,348 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ArabicUIText.ttc
+16:49:25,349 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/SFCompactRounded.ttf
+16:49:25,349 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/SFCompactRounded.ttf
+16:49:25,349 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ArialHB.ttc
+16:49:25,349 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ArialHB.ttc
+16:49:25,349 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Apple Braille Outline 8 Dot.ttf
+16:49:25,349 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Apple Braille Outline 8 Dot.ttf
+16:49:25,350 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W0.ttc
+16:49:25,350 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W0.ttc
+16:49:25,350 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Apple Color Emoji.ttc
+16:49:25,350 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Apple Color Emoji.ttc
+16:49:25,351 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W2.ttc
+16:49:25,351 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W2.ttc
+16:49:25,351 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/SFNSItalic.ttf
+16:49:25,351 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/SFNSItalic.ttf
+16:49:25,352 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/Helvetica.ttc
+16:49:25,352 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/Helvetica.ttc
+16:49:25,352 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/KohinoorBangla.ttc
+16:49:25,352 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/KohinoorBangla.ttc
+16:49:25,352 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/NotoSansArmenian.ttc
+16:49:25,352 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/NotoSansArmenian.ttc
+16:49:25,353 DEBUG FontFileFinder:136 - checkFontfile check /System/Library/Fonts/ヒラギノ角ゴシック W3.ttc
+16:49:25,353 DEBUG FontFileFinder:142 - checkFontfile found /System/Library/Fonts/ヒラギノ角ゴシック W3.ttc
+16:49:25,372 DEBUG FontMapperImpl:484 - getFont('TTF','Times-Roman') returns Times-Roman (TTF, mac: 0x0, os/2: 0x0, cid: null) /System/Library/Fonts/Times.ttc
+16:49:25,377 DEBUG FileSystemFontProvider:197 - Loaded Times-Roman from /System/Library/Fonts/Times.ttc
+16:49:25,380 DEBUG FontMapperImpl:484 - getFont('TTF','Times-Bold') returns Times-Bold (TTF, mac: 0x1, os/2: 0x0, cid: null) /System/Library/Fonts/Times.ttc
+16:49:25,382 DEBUG FileSystemFontProvider:197 - Loaded Times-Bold from /System/Library/Fonts/Times.ttc
+16:49:25,384 DEBUG FontMapperImpl:484 - getFont('TTF','Times-Italic') returns Times-Italic (TTF, mac: 0x2, os/2: 0x0, cid: null) /System/Library/Fonts/Times.ttc
+16:49:25,387 DEBUG FileSystemFontProvider:197 - Loaded Times-Italic from /System/Library/Fonts/Times.ttc
+16:49:25,388 DEBUG FontMapperImpl:484 - getFont('TTF','Times-BoldItalic') returns Times-BoldItalic (TTF, mac: 0x3, os/2: 0x0, cid: null) /System/Library/Fonts/Times.ttc
+16:49:25,390 DEBUG FileSystemFontProvider:197 - Loaded Times-BoldItalic from /System/Library/Fonts/Times.ttc
+16:49:25,392 DEBUG FontMapperImpl:484 - getFont('TTF','Helvetica') returns Helvetica (TTF, mac: 0x0, os/2: 0x0, cid: null) /System/Library/Fonts/Helvetica.ttc
+16:49:25,394 DEBUG FileSystemFontProvider:197 - Loaded Helvetica from /System/Library/Fonts/Helvetica.ttc
+16:49:25,396 DEBUG FontMapperImpl:484 - getFont('TTF','Helvetica-Bold') returns Helvetica-Bold (TTF, mac: 0x1, os/2: 0x0, cid: null) /System/Library/Fonts/Helvetica.ttc
+16:49:25,397 DEBUG FileSystemFontProvider:197 - Loaded Helvetica-Bold from /System/Library/Fonts/Helvetica.ttc
+16:49:25,406 DEBUG FontMapperImpl:484 - getFont('TTF','Helvetica-Oblique') returns Helvetica-Oblique (TTF, mac: 0x2, os/2: 0x0, cid: null) /System/Library/Fonts/Helvetica.ttc
+16:49:25,420 DEBUG FileSystemFontProvider:197 - Loaded Helvetica-Oblique from /System/Library/Fonts/Helvetica.ttc
+16:49:25,424 DEBUG FontMapperImpl:484 - getFont('TTF','Helvetica-BoldOblique') returns Helvetica-BoldOblique (TTF, mac: 0x3, os/2: 0x0, cid: null) /System/Library/Fonts/Helvetica.ttc
+16:49:25,426 DEBUG FileSystemFontProvider:197 - Loaded Helvetica-BoldOblique from /System/Library/Fonts/Helvetica.ttc
+16:49:25,428 DEBUG FontMapperImpl:484 - getFont('TTF','CourierNewPSMT') returns CourierNewPSMT (TTF, mac: 0x0, os/2: 0x505, cid: null) /System/Library/Fonts/Supplemental/Courier New.ttf
+16:49:25,430 DEBUG FileSystemFontProvider:197 - Loaded CourierNewPSMT from /System/Library/Fonts/Supplemental/Courier New.ttf
+16:49:25,432 DEBUG FontMapperImpl:484 - getFont('TTF','CourierNewPS-BoldMT') returns CourierNewPS-BoldMT (TTF, mac: 0x1, os/2: 0x505, cid: null) /System/Library/Fonts/Supplemental/Courier New Bold.ttf
+16:49:25,435 DEBUG FileSystemFontProvider:197 - Loaded CourierNewPS-BoldMT from /System/Library/Fonts/Supplemental/Courier New Bold.ttf
+16:49:25,436 DEBUG FontMapperImpl:484 - getFont('TTF','CourierNewPS-ItalicMT') returns CourierNewPS-ItalicMT (TTF, mac: 0x2, os/2: 0x505, cid: null) /System/Library/Fonts/Supplemental/Courier New Italic.ttf
+16:49:25,440 DEBUG FileSystemFontProvider:197 - Loaded CourierNewPS-ItalicMT from /System/Library/Fonts/Supplemental/Courier New Italic.ttf
+16:49:25,442 DEBUG FontMapperImpl:484 - getFont('TTF','CourierNewPS-BoldItalicMT') returns CourierNewPS-BoldItalicMT (TTF, mac: 0x3, os/2: 0x505, cid: null) /System/Library/Fonts/Supplemental/Courier New Bold Italic.ttf
+16:49:25,447 DEBUG FileSystemFontProvider:197 - Loaded CourierNewPS-BoldItalicMT from /System/Library/Fonts/Supplemental/Courier New Bold Italic.ttf
+16:49:25,448 DEBUG FontMapperImpl:484 - getFont('TTF','Symbol') returns Symbol (TTF, mac: 0x0, os/2: 0x0, cid: null) /System/Library/Fonts/Symbol.ttf
+16:49:25,452 DEBUG FileSystemFontProvider:197 - Loaded Symbol from /System/Library/Fonts/Symbol.ttf
+16:49:25,453 DEBUG FontMapperImpl:484 - getFont('TTF','ZapfDingbatsITC') returns ZapfDingbatsITC (TTF, mac: 0x0, os/2: 0xc0f, cid: null) /System/Library/Fonts/ZapfDingbats.ttf
+16:49:25,456 DEBUG FileSystemFontProvider:197 - Loaded ZapfDingbatsITC from /System/Library/Fonts/ZapfDingbats.ttf
+16:49:40,516 DEBUG cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,517 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_GB.ftl"): Not found
+16:49:40,518 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+16:49:40,518 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+16:49:40,518 DEBUG cache:45 - Loading template for "spark/spark.spa.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+16:49:40,601 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,601 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_GB.ftl"): Not found
+16:49:40,601 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+16:49:40,602 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+16:49:40,602 DEBUG cache:45 - Loading template for "commons/commons-variables.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+16:49:40,696 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,696 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_GB.ftl"): Not found
+16:49:40,696 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+16:49:40,697 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+16:49:40,697 DEBUG cache:45 - Loading template for "commons/commons-macros.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+16:49:40,707 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,707 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_GB.ftl"): Not found
+16:49:40,708 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+16:49:40,708 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+16:49:40,708 DEBUG cache:45 - Loading template for "spark/macros/attributes.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+16:49:40,709 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,709 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_GB.ftl"): Not found
+16:49:40,710 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+16:49:40,710 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+16:49:40,710 DEBUG cache:45 - Loading template for "spark/macros/log.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+16:49:40,712 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,712 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_GB.ftl"): Not found
+16:49:40,713 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+16:49:40,713 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+16:49:40,713 DEBUG cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+16:49:40,715 DEBUG cache:45 - "spark/macros/log.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+16:49:40,716 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,716 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_GB.ftl"): Not found
+16:49:40,716 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+16:49:40,717 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+16:49:40,717 DEBUG cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+16:49:40,724 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,724 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_GB.ftl"): Not found
+16:49:40,725 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+16:49:40,725 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+16:49:40,725 DEBUG cache:45 - Loading template for "spark/partials/head.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+16:49:40,728 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,728 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_GB.ftl"): Not found
+16:49:40,728 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+16:49:40,729 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+16:49:40,729 DEBUG cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+16:49:40,730 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,730 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_GB.ftl"): Not found
+16:49:40,731 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+16:49:40,731 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+16:49:40,731 DEBUG cache:45 - Loading template for "spark/partials/navbar.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+16:49:40,735 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,736 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_GB.ftl"): Not found
+16:49:40,736 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+16:49:40,736 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+16:49:40,737 DEBUG cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+16:49:40,745 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,746 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_GB.ftl"): Not found
+16:49:40,746 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+16:49:40,746 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+16:49:40,747 DEBUG cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+16:49:40,783 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,784 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_GB.ftl"): Not found
+16:49:40,784 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+16:49:40,784 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+16:49:40,784 DEBUG cache:45 - Loading template for "spark/partials/category.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+16:49:40,786 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,786 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_GB.ftl"): Not found
+16:49:40,786 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+16:49:40,787 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+16:49:40,787 DEBUG cache:45 - Loading template for "spark/partials/test.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+16:49:40,793 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,793 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_GB.ftl"): Not found
+16:49:40,794 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+16:49:40,794 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+16:49:40,794 DEBUG cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+16:49:40,803 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,804 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_GB.ftl"): Not found
+16:49:40,805 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+16:49:40,805 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+16:49:40,805 DEBUG cache:45 - Loading template for "spark/partials/author.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+16:49:40,807 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,808 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_GB.ftl"): Not found
+16:49:40,808 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+16:49:40,809 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+16:49:40,809 DEBUG cache:45 - Loading template for "spark/partials/exception.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+16:49:40,809 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,810 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_GB.ftl"): Not found
+16:49:40,810 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+16:49:40,810 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+16:49:40,810 DEBUG cache:45 - Loading template for "spark/partials/log.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+16:49:40,811 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,811 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_GB.ftl"): Not found
+16:49:40,811 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+16:49:40,812 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+16:49:40,812 DEBUG cache:45 - Loading template for "spark/partials/scripts.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+16:49:40,812 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:49:40,813 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_GB.ftl"): Not found
+16:49:40,813 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+16:49:40,813 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+16:49:40,814 DEBUG cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/prabhudatta/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+16:49:45,418 DEBUG ScratchFileBuffer:518 - ScratchFileBuffer not closed!

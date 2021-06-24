@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UIRegression"  >
+	<!-- Do not use parallel="methods" parallel = "classes" thread-count = "2" -->
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener
+			class-name="com.framework.customlisteners.AnnotationTransformer" />
+		<listener
+			class-name="com.framework.customlisteners.TestsListeners" />
+	</listeners>
+	<test name="Payroll Regression">
+		<classes>
+		
+			 <class name="com.darwinbox.payroll.testcases.PermissionTest" />
+			<class name="com.darwinbox.payroll.testcases.LoanAdvanceTest" />
+			<class name="com.darwinbox.payroll.testcases.PayrollTest" />
+			<class name="com.darwinbox.payroll.testcases.PayrollDashboardTest" />
+			<class name="com.darwinbox.payroll.testcases.PayrollSettingsTest" />
+			<class name="com.darwinbox.payroll.testcases.ArrearsTest" />
+			<class name="com.darwinbox.payroll.testcases.CTCProrationTest" />
+			<class name="com.darwinbox.payroll.testcases.DashboardTest" />
+			<class name="com.darwinbox.payroll.testcases.FullAndFinalSettlementTest" />
+			<class name="com.darwinbox.payroll.testcases.ResettlementTest" /> 
+			<class name="com.darwinbox.payroll.testcases.ITDeclarationTest" /> 
+			<class name="com.darwinbox.payroll.testcases.FlexiRevampTest" /> 
+		</classes>							
+	</test><!-- Test -->
+</suite> <!-- Suite -->
